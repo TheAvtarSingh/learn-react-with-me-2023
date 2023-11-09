@@ -1,13 +1,11 @@
-import { useState } from 'react'
-
-import './App.css'
-import Parent from './components/Parent'
+ import './App.css' 
+import ArraysAndMaps from './components/ArraysAndMaps'
 
 function App() { 
 
   return (
     <>
-      <Parent />
+      <ArraysAndMaps />
     </>
   )
 }
