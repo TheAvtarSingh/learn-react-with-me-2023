@@ -17,3 +17,7 @@ Module 2 -Arrays and Map
 Module 3 - useState
 
 1. Rerendering / changing the state
+
+Must Watch Part
+
+`https://youtu.be/xNQo6gEl16g?si=rrj5opZisVIwwKqm&t=11700`
