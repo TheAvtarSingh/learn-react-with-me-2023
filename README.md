@@ -13,3 +13,7 @@ Module 1 . Props ->
 Module 2 -Arrays and Map
 
 1. Components/ArraysAndMaps
+
+Module 3 - useState
+
+1. Rerendering / changing the state

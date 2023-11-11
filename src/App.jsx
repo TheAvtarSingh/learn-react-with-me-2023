@@ -1,11 +1,11 @@
  import './App.css' 
-import ArraysAndMaps from './components/ArraysAndMaps'
+import Stating from './components/Stating'
 
 function App() { 
 
   return (
     <>
-      <ArraysAndMaps />
+      <Stating />
     </>
   )
 }
