@@ -21,3 +21,12 @@ Module 3 - useState
 Must Watch Part
 
 `https://youtu.be/xNQo6gEl16g?si=rrj5opZisVIwwKqm&t=11700`
+
+Module 4 - useEffect
+
+Check UseEffect -> all three-four patterns
+memeory leakage problem
+usage of return statement to cleanup function
+
+Note - If we use multiple useEffects then order of execution is not ordered
+

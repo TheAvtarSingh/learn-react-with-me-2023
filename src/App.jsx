@@ -1,11 +1,11 @@
- import './App.css' 
-import Stating from './components/Stating'
+ import './App.css'  
+import UseEffect from './components/UseEffect'
 
 function App() { 
 
   return (
     <>
-      <Stating />
+      <UseEffect />
     </>
   )
 }
