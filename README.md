@@ -28,5 +28,7 @@ Check UseEffect -> all three-four patterns
 memeory leakage problem
 usage of return statement to cleanup function
 
+
 Note - If we use multiple useEffects then order of execution is not ordered
+cleanup function will unmount all the useEffects
 
