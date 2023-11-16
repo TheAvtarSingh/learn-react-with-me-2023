@@ -23,6 +23,6 @@ Must Watch Part
 `https://youtu.be/xNQo6gEl16g?si=rrj5opZisVIwwKqm&t=11700`
 
 Module 4  - Read Only 
-(React Fibre)[https://github.com/acdlite/react-fiber-architecture]
+[React Fibre](https://github.com/acdlite/react-fiber-architecture)
 - making of virtual trees (DOM Tree  - light wight) (when ever rerendering occurs ) and only updates the changed part in Real DOM
 - Concept of Reconcillation (Developer set priority of tasks) vs React fibre(Make react ajust auto)
